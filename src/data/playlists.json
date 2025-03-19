@@ -1,0 +1,98 @@
+{
+	"playlists": [
+		{
+			"name": "Deep House",
+			"artist": "Nul Tiel Records",
+			"year": 2022,
+			"tracks": [
+				{
+					"name": "Breathe",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/01%20Nul%20Tiel%20Records%20-%20Breathe.mp3",
+					"duration": 265
+				},
+				{
+					"name": "Imagery Intelligence",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/02%20Nul%20Tiel%20Records%20-%20Imagery%20Intelligence.mp3",
+					"duration": 484
+				},
+				{
+					"name": "Surfing",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/03%20Nul%20Tiel%20Records%20-%20Surfing.mp3",
+					"duration": 312
+				},
+				{
+					"name": "Subaqueous",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/04%20Nul%20Tiel%20Records%20-%20Subaqueous.mp3",
+					"duration": 417
+				},
+				{
+					"name": "Elastic",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/05%20Nul%20Tiel%20Records%20-%20Elastic.mp3",
+					"duration": 314
+				},
+				{
+					"name": "Infraction",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/06%20Nul%20Tiel%20Records%20-%20Infraction.mp3",
+					"duration": 286
+				},
+				{
+					"name": "Ascent",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/07%20Nul%20Tiel%20Records%20-%20Ascent.mp3",
+					"duration": 313
+				},
+				{
+					"name": "Shake",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/08%20Nul%20Tiel%20Records%20-%20Shake.mp3",
+					"duration": 378
+				},
+				{
+					"name": "Endless",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Nul%20Tiel%20Records%20-%20Deep%20House/09%20Nul%20Tiel%20Records%20-%20Endless.mp3",
+					"duration": 398
+				}
+			]
+		},
+		{
+			"name": "Neither and Both",
+			"artist": "Brylie Christopher Oxley",
+			"year": 2023,
+			"tracks": [
+				{
+					"name": "A Gentle Fog Descends",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/01%20Brylie%20Christopher%20Oxley%20-%20A%20Gentle%20Fog%20Descends.mp3",
+					"duration": 430
+				},
+				{
+					"name": "Everyting Tastes Different",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/02%20Brylie%20Christopher%20Oxley%20-%20Everyting%20Tastes%20Different.mp3",
+					"duration": 351
+				},
+				{
+					"name": "A Most Joyous Occasion",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/03%20Brylie%20Christopher%20Oxley%20-%20A%20Most%20Joyous%20Occasion.mp3",
+					"duration": 336
+				},
+				{
+					"name": "Ethereal Cafe",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/04%20Brylie%20Christopher%20Oxley%20-%20Ethereal%20Cafe.mp3",
+					"duration": 415
+				},
+				{
+					"name": "Melancholy Aurora",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/05%20Brylie%20Christopher%20Oxley%20-%20Melancholy%20Aurora.mp3",
+					"duration": 302
+				},
+				{
+					"name": "Mostly Melody",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/06%20Brylie%20Christopher%20Oxley%20-%20Mostly%20Melody.mp3",
+					"duration": 360
+				},
+				{
+					"name": "The Companionship of Isolation",
+					"url": "https://github.com/jonathonwebb/react-music/raw/refs/heads/main/songs/Brylie%20Christopher%20Oxley%20-%20Neither%20and%20Both/07%20Brylie%20Christopher%20Oxley%20-%20The%20Companionship%20of%20Isolation.mp3",
+					"duration": 322
+				}
+			]
+		}
+	]
+}
