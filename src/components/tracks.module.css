@@ -1,0 +1,94 @@
+.header {
+	background: rgb(0, 89, 138);
+	background: linear-gradient(
+		180deg,
+		var(--primary) 35%,
+		var(--primary-subtle) 100%
+	);
+	padding: 2rem 1rem;
+	border: 1px solid var(--bg-raised);
+}
+
+.title {
+	font-weight: 600;
+	font-size: 1.75rem;
+	color: var(--text-on-primary);
+}
+
+.titleEmpty {
+	color: var(--text-base);
+}
+
+.summary {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.25rem;
+}
+
+.detail {
+	color: var(--text-on-primary);
+}
+
+.detailSubtle {
+	color: var(--text-on-primary-subtle);
+}
+
+.controls {
+	padding: 0.5rem 0.5rem 0 0.5rem;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.button {
+	color: var(--text-subtle);
+	display: flex;
+	align-items: center;
+	gap: 0.25rem;
+	padding: 0.125rem 0.25rem;
+	border: 1px solid var(--bg-raised);
+	border-radius: 0.375rem;
+}
+
+.buttonBorderless {
+	border-color: transparent;
+}
+
+.buttonWide {
+	flex-grow: 1;
+}
+
+.button:hover {
+	color: var(--text-base);
+}
+
+.button:focus-visible {
+	outline: solid 1px var(--primary);
+}
+
+.buttonIcon {
+	height: 1rem;
+	width: 1rem;
+	color: var(--text-subtle);
+}
+
+.button:hover .buttonIcon {
+	color: var(--text-base);
+}
+
+:global(.list__item):hover .buttonIcon {
+	color: var(--text-base);
+}
+
+.trackLeft {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.trackRight {
+	color: var(--text-subtle);
+	font-family: var(--font-mono);
+	font-size: 0.9rem;
+	font-weight: 500;
+}
