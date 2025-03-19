@@ -2,9 +2,11 @@
 
 A simple HTML5 audio player built with vanilla React.
 
+Live demo: https://react-music-68g.pages.dev/
+
 ![screenshot](./screenshot.png)
 
-# Getting started
+# Development
 
 ```shell-script
 # install dependencies:
